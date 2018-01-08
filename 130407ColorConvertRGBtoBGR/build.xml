@@ -1,6 +1,6 @@
 <project name="130407ColorConvertRGBtoBGR" default="" basedir=".">
     <description>
-        Display_Demo build file
+        Display My_ColorConvertRGBtoBGR.jar build file
     </description>
   <property name="src" location="src" />
   <property name="build" location="bin" />
